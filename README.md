@@ -5,8 +5,7 @@ This repo is to learn git.
 ## Index
 
 - Installation
-- How to start
-- Contributing
+- Formula by mathJax
 
 ## Installation
 
@@ -24,4 +23,4 @@ $ npm start
 
 $$ y=x+1 $$
 
-Or You can emphasize formula like $ y=x+1 $ .
+Or You can emphasize formula like $y=x+1$ .
